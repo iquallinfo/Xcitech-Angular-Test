@@ -18,6 +18,7 @@ export class PostComponent implements OnInit {
   updatepoststatus !: boolean;
   submitted = false;  
   postdata !: any;
+  p: number = 1;
   // successmessage = false;
   // erro
 
